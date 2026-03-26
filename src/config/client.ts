@@ -45,12 +45,12 @@ export const client = {
     { before: "/images/drive-before.jpg", after: "/images/drive-after.jpg", label: "Driveway" },
   ] as { before: string; after: string; label: string }[],
   reviews: [
-    { name: "Sarah M.", rating: 5, text: "Absolutely fantastic work. Professional from start to finish. Couldn't recommend more highly.", date: "2 weeks ago", badge: "Local Guide" },
-    { name: "James T.", rating: 5, text: "Brilliant job. They understood exactly what we wanted and delivered beyond expectations.", date: "1 month ago" },
-    { name: "Karen D.", rating: 5, text: "Best in the area. Transformed our garden into something we're genuinely proud of.", date: "3 weeks ago", badge: "Local Guide" },
-    { name: "David R.", rating: 5, text: "From consultation to completion, everything was handled professionally. Fair pricing throughout.", date: "2 months ago" },
-    { name: "Emma W.", rating: 5, text: "Beautiful results. They delivered exactly what we asked for with a stunning finish.", date: "1 month ago" },
-    { name: "Paul H.", rating: 5, text: "Outstanding quality. Neighbours keep stopping to compliment the work. Highly recommended.", date: "3 weeks ago", badge: "Local Guide" },
+    { name: "Marcelo Coimbra", rating: 5, text: "Very good service removing a plant that was damaging house structure. Recommended", date: "6 months ago", badge: "Local Guide" },
+    { name: "BOO ALI", rating: 5, text: "Fantastic job and rapid finish and would highly recommend", date: "6 months ago" },
+    { name: "Sarah Vince", rating: 5, text: "Alfred and his team, arrived on time, carried out the work to a very high standard, very pleasant and professional from start to finish. Would highly recommend.", date: "8 months ago" },
+    { name: "Joanna Wasacz", rating: 5, text: "Alfred done the grate job, my garden after winter looked really bad, and this man had knowledge to make all right. I am so happy now when I see my beautiful garden.  He give me answers for all my questions and help with everything.  Really recommend.", date: "11 months ago" },
+    { name: "TimaLovesTravels sanni", rating: 5, text: "I had a great experience. From our first chat with Alfred!, we set up a schedule that worked well for both of us. He did a fantastic job on the fence and really paid attention to detail. Alfred also gave helpful tips on how to take care of the fence so it lasts longer. He was on time and very flexible, making the whole process easy and pleasant. I highly recommend the team!", date: "11 months ago" },
+    { name: "Bashkim Kombetar", rating: 5, text: "Great job done by Domi Brothers Ltd ! I would highly recommend them ! Thank you guys  🙏 …", date: "a year ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
   seo: {
     title: "Domi Brothers LTD | Professional Landscaper in Crawley",
